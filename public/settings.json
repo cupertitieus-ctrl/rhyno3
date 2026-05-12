@@ -1,4 +1,10 @@
 {
+  "name": "Ryhno",
+  "title": "Ryhno",
+  "description": "Fast, private, and powerful web proxy",
+  "themeColor": "#0F172A",
+  "logo": "/assets/ryhno-logo.svg",
+
   "ai-model": [
     {
       "name": "Llama-3.1-8B-Instant",
